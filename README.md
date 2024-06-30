@@ -1,4 +1,5 @@
 ![Banner Image](https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
+<img src = "https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="Banner Image" style="width=75%, height=auto, margin = 5% auto">
 <h1 align="center">Hi 👋, I'm Hrud Narayan Sarangi</h1>
 <h3 align="center">A computer science graduate from India</h3>
 
@@ -6,7 +7,7 @@
 
 - 💬 Ask me about **python and machine learning**
 
-- 📫 How to reach me **hnsarangi15@gmail.com**
+- 📫 How to reach me **hrudsarangi25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
