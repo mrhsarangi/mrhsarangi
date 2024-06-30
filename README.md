@@ -1,5 +1,4 @@
-![Banner Image](https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif)
-<img src = "https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="Banner Image" style="width=75%, height=auto, margin = 5% auto">
+<img src = "https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="Banner Image" style="width=50%, height=auto, margin = 5% auto">
 <h1 align="center">Hi 👋, I'm Hrud Narayan Sarangi</h1>
 <h3 align="center">A computer science graduate from India</h3>
 
